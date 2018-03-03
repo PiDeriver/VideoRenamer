@@ -1,0 +1,8 @@
+cd C:\Users\Kevin\Desktop\VideoRenamerTestFolder
+java -jar TatorsVideoAutoName.jar
+
+C:\Users\Kevin\Desktop\VideoRenamerTestFolder\Dump
+
+C:\Users\Kevin\Desktop\VideoRenamerTestFolder\Videos
+
+
